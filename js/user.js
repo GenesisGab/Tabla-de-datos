@@ -1,5 +1,5 @@
 
-export let user_ob = [
+export let user = [
 
     {
         id: 100,	
